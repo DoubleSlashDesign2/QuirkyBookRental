@@ -82,3 +82,7 @@ C:\Users\zsyed\source\repos\QuirkyBookRental\QuirkyBookRental\obj\Debug\QuirkyBo
 C:\Users\zsyed\source\repos\QuirkyBookRental\QuirkyBookRental\obj\Debug\QuirkyBookRental.Migrations.SeedMemberShipTypeDatabase.resources
 C:\Users\zsyed\source\repos\QuirkyBookRental\QuirkyBookRental\obj\Debug\QuirkyBookRental.Migrations.AddFieldsToMembershipTable.resources
 C:\Users\zsyed\source\repos\QuirkyBookRental\QuirkyBookRental\obj\Debug\QuirkyBookRental.Migrations.addmigrationAddCoPublisherBookModel.resources
+C:\Users\zsyed\source\repos\QuirkyBookRental\QuirkyBookRental\obj\Debug\QuirkyBookRental.Migrations.addfields.resources
+C:\Users\zsyed\source\repos\QuirkyBookRental\QuirkyBookRental\obj\Debug\QuirkyBookRental.Migrations.updatedregister.resources
+C:\Users\zsyed\source\repos\QuirkyBookRental\QuirkyBookRental\obj\Debug\QuirkyBookRental.Migrations.databaseupdated.resources
+C:\Users\zsyed\source\repos\QuirkyBookRental\QuirkyBookRental\obj\Debug\QuirkyBookRental.Migrations.blahh.resources

@@ -147,6 +147,7 @@ public ActionResult Details(int? id)
         [HttpPost]
         
         [ValidateAntiForgeryToken]
+        [ValidateInput(false)]
         public ActionResult Edit(BookViewModel bookVM)
         {
             var book = new Book

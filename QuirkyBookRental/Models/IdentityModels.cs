@@ -15,8 +15,8 @@ namespace QuirkyBookRental.Models
         public string Phone { get; set; }
 
         public DateTime BirthDate { get; set; }
-        public string Disable { get; set; }
-        public int MembershipID { get; set; }
+        public bool Disable { get; set; }
+        public int MembershipTypeId { get; set; }
 
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)
         {
